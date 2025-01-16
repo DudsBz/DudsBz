@@ -2,8 +2,8 @@
 <div>
   <h3>Olá, ainda estou no início</h3>
   <a href="https://github.com/dudsbz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dudsbz&showicons=true&theme=dark&include_all_commits=true"><br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudsbz&layout=compact&langs_count=16&theme=dark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dudsbz&showicons=true&theme=dark&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudsbz&layout=compact&langs_count=16&theme=dark">
 </div>
 
 
