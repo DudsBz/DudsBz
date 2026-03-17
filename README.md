@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Eduardo</h1>
-<h3 align="center">A Brazilian developer at the beginning of my journey, driven by innovation and passionate about creating smart solutions that turn ideas into reality. Always learning, always evolving</h3>
+<h3 align="center">A Brazilian developer at the beginning of my journey, driven by innovation and  about creating smart solutions. Always learning, always evolving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dudsbz&label=Profile%20views&color=0e75b6&style=flat" alt="dudsbz" /> </p>
 
